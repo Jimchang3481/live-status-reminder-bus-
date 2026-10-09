@@ -36,6 +36,6 @@
 
 ## 致謝與開源授權
 
-本專案基於 Jimmy Huang (jimmy90109) 之開源專案進行精簡、重構與專屬客製化開發。
+本專案基於 Jimmy Huang (jimmy90109) 之開源專案 jimmy90109/live-status-reminder 重構。
 
 本專案採用 MIT License 條款開放原始碼。
