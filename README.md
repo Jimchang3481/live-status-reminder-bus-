@@ -1,12 +1,12 @@
-Bus+ 即時動態 (Live Updates for Bus+)
+# Bus+ 即時動態 (Live Updates for Bus+)
 
-專案介紹
+## 專案介紹
 
 本專案是一個專為台灣熱門公車 App Bus+ 量身打造的輔助工具。
 
 透過 Android 系統原生的通知監聽架構，在裝置本機即時提取 Bus+ 的路線與到站倒數資訊，並呼叫 Android 16 (API 36) 底層的原生 API，將其升級為狀態列動態膠囊與鎖定螢幕即時動態卡片。
 
-特色
+## 特色
 
 Android 16 原生即時動態：無縫串接系統級 Live Updates，公車到站資訊直接常駐於狀態列膠囊與鎖定螢幕。
 
@@ -20,7 +20,7 @@ Android 16 原生即時動態：無縫串接系統級 Live Updates，公車到�
 
 
 
-運作原理
+## 運作原理
 
 [ Bus+ App ] 
      │ (發布常駐通知)
@@ -37,7 +37,7 @@ Android 16 原生即時動態：無縫串接系統級 Live Updates，公車到�
 [ 系統狀態列膠囊 & 鎖定螢幕卡片 ]
 
 
-安裝與系統要求
+## 安裝與系統要求
 
 作業系統：建議 Android 16 (API 36) 或以上版本（支援原生 Live Updates 機型）。
 
@@ -46,7 +46,7 @@ Android 16 原生即時動態：無縫串接系統級 Live Updates，公車到�
 必要權限：首次啟動請依引導授予「通知存取權限 (Notification Listener Permission)」。
 
 
-致謝與開源授權
+## 致謝與開源授權
 
 本專案基於 Jimmy Huang (jimmy90109) 之開源專案進行精簡、重構與專屬客製化開發。
 
